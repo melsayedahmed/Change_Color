@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  #colorBox {
+    width: 200px;
+    height: 200px;
+    background-color: red; /* Start with red color */
+    margin-bottom: 20px;
+  }
+  
+  #changeColorButton {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
